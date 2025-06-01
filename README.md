@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here's a little about what I'm up to:
 - Startups looking to disrupt traditional marketplaces
 
 ## 📫 How to reach me:
-- Email: abhi@bookshopclub.com
+- Email: abhi@stylesync.tech
 
 
 ## 😄 Pronouns:
